@@ -1,0 +1,8 @@
+.env
+**/.env
+chroma_db/
+**/chroma_db/
+catboost_info/
+**/*.csv
+.ipynb_checkpoints/
+**/__pycache__/
