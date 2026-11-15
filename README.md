@@ -15,7 +15,7 @@ This is course and self-study work. Any score in a notebook is my own hold-out c
 | NLP | SMS spam, fake news, movie-review sentiment, cyberbullying |
 | RecommendationSystems | MovieLens, anime, books |
 | TimeSeries | Delhi temperature, electricity load, Bitcoin price |
-| AIAgents | Book, house, and movie advisor notebooks, plus `app.py` |
+| AIAgents | RAG advisors for books, houses, and movies. Chroma embeds each row and retrieves the closest ones. A chat model writes the answer from those rows only. `app.py` runs the demo. |
 
 ## Run the demo
 
